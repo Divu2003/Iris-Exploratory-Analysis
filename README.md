@@ -4,6 +4,9 @@ Explore the IRIS dataset through interactive visualizations created using Python
 Key Features:
 
 1.Conduct detailed exploratory data analysis (EDA) on the IRIS dataset.
+
 2.Visualize species distributions and feature relationships.
+
 3.Utilize Seaborn's plotting functions for statistical insights.
+
 4.Customize plots with Matplotlib for enhanced visualization.
